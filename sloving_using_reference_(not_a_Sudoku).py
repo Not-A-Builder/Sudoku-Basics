@@ -1,6 +1,6 @@
 """
 This program is using 3 reference lists to predict the numbers that can be placed in Sudoku.
-As it is choosing a number randomly, sometimes there will be no possible number to fill a certain index.
+As it is choosing a number randomly, sometimes there will be no possible numbers to fill a certain index.
 So, this method is totally junk, as the generated Sudoku will be neither completed nor solvable.
 """
 
